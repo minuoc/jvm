@@ -4,7 +4,7 @@ public class Load4 {
     public static void main(String[] args) {
 //        System.out.println(E.a);
 //        System.out.println(E.b);
-        System.out.println(E.c);
+        System.out.println(E.c); //包装类型 Integer.valueOf(20)
 
 
     }
